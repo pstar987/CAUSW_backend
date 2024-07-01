@@ -54,6 +54,69 @@
 
 -->
 
-## Contact
+## 서비스 URL
 
-**Email** : <a href="mailto:caucsedongne@gmail.com">caucsedongne@gmail.com</a>
+**URL** : <a href="mailto:https://causw.co.kr">https://causw.co.kr</a>
+
+## 프로젝트 소개
+
+### 프로젝트 목적
+
+- 학교 생활을 정보가 학교 포탈, 학생회 카카오톡 공지방, 각 동아리 카카오톡 공지방, 과 홈페이지, 오픈 채팅방으로 분산되어 있어 학생들이 원하는 정보를 열람하는데 혼란이 존재함
+- 각종 공지, 동아리 관리, 사물함 관리등의 학생 편의 기능을 하나로 모아 혼란 해결 도모
+- 개발 파트별 멘토링을 통해 서비스의 지속을 위한 개발진 양성
+- 리팩토링을 통해 프로젝트의 코딩 컨벤션 제공으로 코드 지속성에 기여
+- 통일된 코딩 컨벤션 내에서 사용자들의 위한 편의 기능 추가를 통해 서비스 활성화
+
+### 프로젝트 구현
+
+![홈화면](https://github.com/pstar987/CAUSW_backend/assets/63050966/5a74690c-f201-4279-8edd-99fca2285360)
+
+홈화면
+
+![학생회 공지 게시판](https://github.com/pstar987/CAUSW_backend/assets/63050966/ccedfed0-648a-4f2e-9ba3-2a2d037c7574)
+
+
+학생회 공지 게시판 및 게시글 사용
+
+![사물함 관리](https://github.com/pstar987/CAUSW_backend/assets/63050966/84a058cf-7067-43fb-ae8d-8377b89cc4fe)
+
+
+사물함 관리 서비스
+
+![동아리](https://github.com/pstar987/CAUSW_backend/assets/63050966/3f85ccf6-3100-4913-af4e-34f649d0abaf)
+
+
+동아리 관리 서비스
+
+- 서비스 개발진 이외에도 B트랙, C트랙으로 구분하여 추가 개발자를 양성하는 멘토링 진행
+- 실제 서비스 배포 후 현재 295명의 사용자가 존재
+- 최초 배포 시의 피드백 사항 및 todo 사항을 고려하여 현재 ver.2 개발 중
+
+### ERD Cloud
+
+![2024 동문네트워크](https://github.com/pstar987/CAUSW_backend/assets/63050966/0e92133d-b99c-4e42-8fdf-c6211fe22364)
+
+
+### Infrastructure
+
+![동문네트워크 인프라](https://github.com/pstar987/CAUSW_backend/assets/63050966/331eac72-925a-4660-8518-e27943790f90)
+
+## 참여 인원
+
+### ver.1 개발진
+
+| Back-End | 4명 |
+| --- | --- |
+| Front-End | 2명 |
+| 운영, 기획 | 1명 |
+
+### ver.2 개발진
+
+| Back-End | 4명 |
+| --- | --- |
+| Front-End | 4명 |
+| 기획 | 2명 |
+| 디자인 | 2명 |
+| 운영 | 1명 |
+| 자문위원 | 3명 |
