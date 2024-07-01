@@ -70,24 +70,8 @@
 
 ### 프로젝트 구현
 
-![홈화면](https://github.com/pstar987/CAUSW_backend/assets/63050966/5a74690c-f201-4279-8edd-99fca2285360)
+![홈화면](https://github.com/pstar987/CAUSW_backend/assets/63050966/5a74690c-f201-4279-8edd-99fca2285360) ![학생회 공지 게시판](https://github.com/pstar987/CAUSW_backend/assets/63050966/ccedfed0-648a-4f2e-9ba3-2a2d037c7574) ![사물함 관리](https://github.com/pstar987/CAUSW_backend/assets/63050966/84a058cf-7067-43fb-ae8d-8377b89cc4fe) ![동아리](https://github.com/pstar987/CAUSW_backend/assets/63050966/3f85ccf6-3100-4913-af4e-34f649d0abaf)
 
-홈화면
-
-![학생회 공지 게시판](https://github.com/pstar987/CAUSW_backend/assets/63050966/ccedfed0-648a-4f2e-9ba3-2a2d037c7574)
-
-
-학생회 공지 게시판 및 게시글 사용
-
-![사물함 관리](https://github.com/pstar987/CAUSW_backend/assets/63050966/84a058cf-7067-43fb-ae8d-8377b89cc4fe)
-
-
-사물함 관리 서비스
-
-![동아리](https://github.com/pstar987/CAUSW_backend/assets/63050966/3f85ccf6-3100-4913-af4e-34f649d0abaf)
-
-
-동아리 관리 서비스
 
 
 ### 진행상황
